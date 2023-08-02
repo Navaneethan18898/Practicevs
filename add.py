@@ -1,3 +1,3 @@
-c=10
-d=20
-print(c+d)
+a=10
+b=20
+print(a+b)
